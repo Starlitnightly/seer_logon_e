@@ -1,0 +1,6 @@
+sw-6.bmp
+sw-7.bmp
+sw-7.bmp
+sw-7.bmp
+sw-2.bmp,52,526
+sw-4.bmp,52,526

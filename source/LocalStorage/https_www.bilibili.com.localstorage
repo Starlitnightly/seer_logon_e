@@ -1,0 +1,2 @@
+ABTEST_INFO--mb-sep--
+{"hit":{"hitGroup":"863_659"},"expire":1581444089808,"vars":[{"force":0,"group":863,"name":"web_laboratory","value":1},{"force":1,"group":659,"name":"pgc_web_play_ep","value":2}]}--mb-sep--

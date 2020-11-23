@@ -1,0 +1,10 @@
+dfdld-sfxz.bmp,93,506
+dfdld-xzjl.bmp
+dfdld-qr.bmp
+dfdld-qr2.bmp
+dfdld-ksld.bmp
+dfdld-wl0.bmp
+dfdld-wl160.bmp
+dfdld-wl90.bmp
+dfdld-wl150.bmp
+dfdld-wl80.bmp
